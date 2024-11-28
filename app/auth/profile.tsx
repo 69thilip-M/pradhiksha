@@ -54,7 +54,7 @@ const profile = () => {
           style={className`mb-2 flex-row  justify-start items-center gap-2`}
         >
           <PhoneIcon></PhoneIcon>
-          <Text style={className`text-lg font-semibold text-gray-500`}>
+          <Text style={className`text-sm font-semibold text-gray-500`}>
             6345678989
           </Text>
         </View>
