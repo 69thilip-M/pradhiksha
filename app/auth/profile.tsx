@@ -43,7 +43,7 @@ const profile = () => {
         </View>
         {/* details */}
         <View
-          style={className`mb-2 mt-2 flex-row  justify-start items-center gap-2`}
+          style={className`mb-2 mt-2 flex-row  justify-end items-center gap-2`}
         >
           <MailIcon></MailIcon>
           <Text style={className`text-lg font-semibold text-gray-500`}>
